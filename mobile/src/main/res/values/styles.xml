@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="Theme.TecsunOA" parent="Theme.TecsunOA.Base"/>
+    <!-- Base application theme. -->
+    <style name="Theme.TecsunOA.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="colorAccent">@color/theme_accent</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TecsunOA</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!--sign-->
+    <string name="sign_username">用户名</string>
+    <string name="sign_password">密码</string>
+    <string name="sign_in">登录</string>
+
+    <!--menu-->
+    <string name="setting">设置</string>
+
+    <!--volley error-->
+    <string name="generic_server_down">服务器宕机</string>
+    <string name="no_internet">没有网络</string>
+    <string name="generic_error">未知错误</string>
+    <!--404-->
+    <string name="no_find_server">请求失败,找不到服务器</string>
+</resources>
